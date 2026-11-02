@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latestVersion": "1.2.1",
+    "releaseNotes": "- Hotfix for new Halloween level, Salem."
+  },
+  "ios": {
+    "latestVersion": "1.2.1",
+    "releaseNotes": "- Hotfix for new Halloween level, Salem"
+  }
+}
